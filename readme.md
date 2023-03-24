@@ -21,7 +21,7 @@ clone此仓库:
 git clone https://github.com/wzk0/8x
 ```
 
-安装requests, html5lib和beautifulsoup4:
+安装`requests`, `html5lib`和`beautifulsoup4`:
 
 ```sh
 pip install beautifulsoup4 html5lib requests
@@ -37,4 +37,6 @@ python3 8x.py
 
 ## 情况
 
-如果失效的话请去片库仓库自行获取链接替换程序中的api.
+* 如果失效的话请去片库仓库自行获取链接替换程序中的`domain`参数;
+
+* 使用搜索功能时, 如果报错说明需要代理.
