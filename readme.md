@@ -17,19 +17,19 @@
 
 clone此仓库:
 
-```
-git clone https://github.com/wzk0/8x8x
+```sh
+git clone https://github.com/wzk0/8x
 ```
 
 安装requests, html5lib和beautifulsoup4:
 
-```
+```sh
 pip install beautifulsoup4 html5lib requests
 ```
 
 运行:
 
-```
+```sh
 python3 8x.py
 ```
 
